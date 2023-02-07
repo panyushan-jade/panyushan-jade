@@ -31,14 +31,5 @@
 </samp>
 
 <!-- Pinned Repositories -->
-#### Pinned
-
-<p align="center">
-<a href="https://github.com/panyushan-jade/dui">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=panyushan-jade&repo=panyushan-jade&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/panyushan-jade/FileSizeAnalyzeWebpackPlugin">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=panyushan-jade&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
+##### Some repo 
+- [dui](https://github.com/panyushan-jade/dui)：🎉是一套自定义的ui组件库  [![](https://img.shields.io/github/stars/panyushan-jade/dui)](https://github.com/panyushan-jade/dui)     [![](https://img.shields.io/npm/dt/dui?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/dui)
