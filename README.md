@@ -32,4 +32,7 @@
 
 <!-- Pinned Repositories -->
 ##### Some repo 
+- [react-template-admin](https://github.com/panyushan-jade/react-template-admin)：🎉轻量级的 React18 后端管理模板  [![](https://img.shields.io/github/stars/panyushan-jade/react-template-admin)](https://github.com/panyushan-jade/react-template-admin)
 - [dui](https://github.com/panyushan-jade/dui)：🎉是一套自定义的ui组件库  [![](https://img.shields.io/github/stars/panyushan-jade/dui)](https://github.com/panyushan-jade/dui)     [![](https://img.shields.io/npm/dt/dui?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/dui)
+- [react-dhooks](https://github.com/panyushan-jade/react-dhooks)：🎉是一套可靠的 React Hooks 库  [![](https://img.shields.io/github/stars/panyushan-jade/react-dhooks)](https://github.com/panyushan-jade/react-dhooks)
+- [download-repo-cli](https://github.com/panyushan-jade/download-repo-cli)：🎉一个在终端运行的源码下载器cli，支持github、gitee  [![](https://img.shields.io/github/stars/panyushan-jade/download-repo-cli)](https://github.com/panyushan-jade/download-repo-cli)
